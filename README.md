@@ -58,7 +58,7 @@ Era perkembangan GPU semakin pesat, terutama dalam komputasi paralel. Seiring me
 - **Pengembangan GPU berbasis cloud** untuk efisiensi tinggi dalam pemrosesan data.
 
 ## 🎯 Kesimpulan
-GPU telah berkembang dari akselerator grafis menjadi komponen penting dalam gaming, AI, dan komputasi ilmiah. Inovasi terus berkembang untuk efisiensi daya dan performa yang lebih baik.
+Sejak awal hingga sekarang, GPU telah berkembang pesat dari sekadar akselerator grafis menjadi komponen penting dalam komputasi modern, termasuk game, AI, dan komputasi ilmiah. NVIDIA dan AMD terus bersaing dalam inovasi, sementara tren masa depan GPU mengarah pada kecerdasan buatan dan efisiensi daya yang lebih baik. 
 
 ⭐ Terima kasih telah melihat repositori ini semoga   bermanfaat!
 
